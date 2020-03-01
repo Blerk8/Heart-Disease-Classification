@@ -1,6 +1,6 @@
 # Heart-Disease-Classification
 
-Code: http://https://github.com/Blerk8/Heart-Disease-Classification/blob/master/heart_disease_classification.ipynb)
+**Code:** heart_disease_classification.ipynb
 
 This notebook uses various data science librabries in attempt to build a machine learning model capable of detecting whether a patient has heart disease, based on their medical attributes.
 
@@ -75,7 +75,7 @@ David W. Aha (aha@ics.uci.edu) (714) 856-8779
 Due to the significance of the outcome of the prediction,
 > We intend to pursue the project if we can achieve 95% accuracy, in our predictions. 
 
-## 4 Features
+## 4. Features
 
 **Data Quality**
 The below-mentioned changes were made to address the versioning descrepancies based on Kaggle discussions (https://www.kaggle.com/ronitf/heart-disease-uci/discussion/105877):
