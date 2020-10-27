@@ -1,6 +1,6 @@
 # Heart-Disease-Classification
 
-**Code:** heart_disease_classification.ipynb
+**Code:** https://github.com/Blerk8/Heart-Disease-Classification/blob/master/heart_disease_classification.ipynb
 
 This notebook uses various data science librabries in attempt to build a machine learning model capable of detecting whether a patient has heart disease, based on their medical attributes.
 
